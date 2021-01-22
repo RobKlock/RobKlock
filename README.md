@@ -1,11 +1,11 @@
 ### Hi there! 👋
 
-My name is Rob and I am the ML lead software engineer at @aristco.\n
-I am studying Computer Science at Oberlin College and graduating in Spring 2021.\n
+My name is Rob and I am the ML lead software engineer at @aristco.  
+I am studying Computer Science at Oberlin College and graduating in Spring 2021.  
 
-📫 [Connect with me on LinkedIn!](https://www.linkedin.com/in/robert-klock)\n
-😄 Pronouns: He/Him\n
-🔭 I’m currently working on my CS Honors project, neuroscience/machine learning research, and interesting work at Arist.\n
+📫 [Connect with me on LinkedIn!](https://www.linkedin.com/in/robert-klock)  
+😄 Pronouns: He/Him  
+🔭 I’m currently working on my CS Honors project, neuroscience/machine learning research, and interesting work at Arist.  
 <!--
 
 

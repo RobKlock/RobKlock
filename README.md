@@ -1,13 +1,13 @@
 ### Hi there! 👋
 
-I am Farjad. 
+I am Rob. 
 
 I enjoy traveling, hiking, and all things nature! 
 
-📫 [Connect with me on LinkedIn!](https://www.linkedin.com/in/farjadfazli)
+📫 [Connect with me on LinkedIn!](https://www.linkedin.com/in/robklock)
 
 <!--
-**farjadfazli/farjadfazli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 
-![Stats](https://github-readme-stats.vercel.app/api?username=farjadfazli&show_icons=true&count_private=true%22%20align=%22center&hide=stars,issues)
+![Stats](https://github-readme-stats.vercel.app/api?username=robklock&show_icons=true&count_private=true%22%20align=%22center&hide=stars,issues)
 

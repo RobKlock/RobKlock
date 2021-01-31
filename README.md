@@ -5,8 +5,8 @@ I am studying Computer Science at Oberlin College and graduating in Spring 2021.
 
 📫 [Connect with me on LinkedIn!](https://www.linkedin.com/in/robert-klock)  
 😄 Pronouns: He/Him  
-🔭 I’m currently working on my CS Honors project, neuroscience/machine learning research, and interesting work at Arist. 
-Note: From June until September I was working primarily in Gitlab on a seperate account
+🔭 I’m currently working on my CS Honors project, neuroscience/machine learning research, and interesting work at Arist.  
+Note: From June until September I was working primarily in Gitlab on a seperate account  
 <!--
 
 

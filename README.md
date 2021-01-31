@@ -1,6 +1,6 @@
-### Hi there! 👋
+### Hello! 👋
 
-My name is Rob and I am the ML lead software engineer at @aristco.  
+My name is Rob and I am the ML Lead software engineer at @aristco.  
 I am studying Computer Science at Oberlin College and graduating in Spring 2021.  
 
 📫 [Connect with me on LinkedIn!](https://www.linkedin.com/in/robert-klock)  
@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 -->
-
+I'm not sure how exactly they are measured, but here are my GitHub stats:
 ![Stats](https://github-readme-stats.vercel.app/api?username=robklock&show_icons=true&count_private=true%22%20align=%22center&hide=stars,issues)
 

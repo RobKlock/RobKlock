@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Rob and I am the ML Lead software engineer at @aristco.  
+My name is Rob and I am a software engineer at Arist, a YC S20 company.  
 I am studying Computer Science at Oberlin College and graduating in Spring 2021.  
 
 📫 [Connect with me on LinkedIn!](https://www.linkedin.com/in/robert-klock)  

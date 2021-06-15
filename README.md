@@ -1,12 +1,13 @@
 ### Hello! 👋
 
-My name is Rob and I am a software engineer at Arist, a YC S20 company.  
-I am studying Computer Science at Oberlin College and graduating in Spring 2021.  
+My name is Rob and I am a Software Engineer at Arist, a YC S20 company.  
+I studied Computer Science at Oberlin College and graduated in Spring 2021.  
 
 📫 [Connect with me on LinkedIn!](https://www.linkedin.com/in/robert-klock)  
 😄 Pronouns: He/Him  
-🔭 I’m currently working on my CS Honors project, neuroscience/machine learning research, and interesting work at Arist.  
-Note: From June until September I was working primarily in Gitlab on a seperate account  
+🔭 I’m working in industry and academia, the former on the backend at Arist and the latter on machine learning research. My primary areas are the intersections between machine learning and security/HCI and neuroscience.
+⚡ Fun fact: I wanted to go to art school for oil painting and I now dabble in patternmaking.
+Note: From June until September 2020 I was working in Gitlab on a seperate account  
 <!--
 
 

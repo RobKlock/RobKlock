@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Rob and I'm a Software Engineer at Arist, a YC S20 company.  
+My name is Rob and I'm a Software Engineer at Arist, a YCombinator S20 company.  
 I studied Computer Science at Oberlin College and graduated in Spring 2021.  
 
 📫 [Connect with me on LinkedIn!](https://www.linkedin.com/in/robert-klock)  

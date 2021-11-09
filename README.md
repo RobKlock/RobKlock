@@ -5,7 +5,7 @@ I studied Computer Science at Oberlin College and graduated in Spring 2021.
 
 📫 [Connect with me on LinkedIn!](https://www.linkedin.com/in/robert-klock)  
 😄 Pronouns: He/Him  
-🔭 I’m working in industry and academia, the former on the backend at Arist and the latter on machine learning research. My primary areas are the intersections between machine learning and security/HCI and neuroscience. 
+🔭 I’m working in industry and academia, the former on the backend at Arist and the latter on machine learning research. My primary area is the intersection between machine learning and neuroscience. 
 
 ⚡ Fun fact: I wanted to go to art school for oil painting and I now dabble in patternmaking.  
 Note: From June until September 2020 I was working in Gitlab on a seperate account 

@@ -1,7 +1,8 @@
 ### Hello! 👋
 
 My name is Rob and I'm a Software Engineer at Arist, a YCombinator S20 company.  
-B.A. in Computer Science with honors and a minor in Philosophy. Oberlin College 2021
+
+I received my B.A. in Computer Science with honors and a minor in Philosophy from Oberlin College in 2021
 
 📫 [Connect with me on LinkedIn!](https://www.linkedin.com/in/robert-klock)  
 😄 Pronouns: He/Him  

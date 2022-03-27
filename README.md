@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-My name is Rob and I'm a Software Engineer at Arist, a YCombinator S20 company.  
+My name is Rob.
 
 I received my B.A. in Computer Science with honors and a minor in Philosophy from Oberlin College in 2021
 

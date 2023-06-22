@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - 📫 Connect with me on LinkedIn!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
--->
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=robklock&show_icons=true&count_private=true%22%20align=%22center&hide=stars,issues)
+-->
 

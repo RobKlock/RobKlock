@@ -2,7 +2,7 @@
 
 My name is Rob.
 
-I'm a first-year MS/PhD student at the University of Wisconsin-Madison studying Computer Science. 
+I'm a second-year MS student at the University of Wisconsin-Madison studying Computer Science. 
 
 I received my B.A. in Computer Science with honors and a minor in Philosophy from Oberlin College in 2021
 

@@ -2,9 +2,9 @@
 
 My name is Rob.
 
-I'm a second-year MS student at the University of Wisconsin-Madison studying Computer Science. 
+I'm a software engineer at Rebet.
 
-I received my B.A. in Computer Science with honors and a minor in Philosophy from Oberlin College in 2021
+I received my M.S. in Computer Science from UW-Madison in 2024 and my B.A. in Computer Science with honors (and a minor in Philosophy) from Oberlin College in 2021
 
 📫 [Connect with me on LinkedIn!](https://www.linkedin.com/in/robert-klock)  
 
